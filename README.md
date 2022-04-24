@@ -9,7 +9,9 @@ Our team members:
 * Name: Xuchen Hu &emsp; NetID: xh2090
 
 Link to the .ipynb file in Google Colab:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pJ93Ll3edu7wFhm-AffOfThQn4jCKSbq?usp=sharing) https://colab.research.google.com/drive/1pJ93Ll3edu7wFhm-AffOfThQn4jCKSbq?usp=sharing
+
 
 To reproduce the project necessary setup needs to be installed in a Colab environment. 
 
